@@ -1,2 +1,2 @@
 # Open-source-PDF-summarizer
-Using Llama model to sumarize docs
+Using Llama model to sumamrize docs
